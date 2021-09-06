@@ -7,7 +7,6 @@ on:
       - "*.md"
     branches:
       - main
-      - master
     tags:
       - "**"
   pull_request:
@@ -15,7 +14,6 @@ on:
       - "*.md"
     branches:
       - main
-      - master
 
 env:
   CARGO_TERM_COLOR: always
