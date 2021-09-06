@@ -1,3 +1,4 @@
-var searchIndex = {};
-searchIndex["treeline"] = {"doc":"","items":[[3,"Tree","treeline","a simple recursive type which is able to render its\ncomponents in a tree-like format",null,null],[11,"fmt","","",0,null],[11,"new","","",0,{"inputs":[{"name":"d"},{"name":"vec"}],"output":{"name":"tree"}}],[11,"root","","",0,{"inputs":[{"name":"d"}],"output":{"name":"tree"}}],[11,"push","","",0,null],[11,"fmt","","",0,null]],"paths":[[3,"Tree"]]};
-initSearch(searchIndex);
+var searchIndex = JSON.parse('{\
+"treeline":{"doc":"","t":[3,11,11,11,11,11,11,11,11,11,11,11,11,11],"n":["Tree","borrow","borrow_mut","fmt","fmt","from","into","new","push","root","to_string","try_from","try_into","type_id"],"q":["treeline","","","","","","","","","","","","",""],"d":["a simple recursive type which is able to render its …","","","","","","","","","","","","",""],"i":[0,1,1,1,1,1,1,1,1,1,1,1,1,1],"f":[null,[[]],[[]],[[["formatter",3]],["result",6]],[[["formatter",3]],["result",6]],[[]],[[]],[[["vec",3],["tree",3]],["tree",3]],[[["tree",3]]],[[],["tree",3]],[[],["string",3]],[[],["result",4]],[[],["result",4]],[[],["typeid",3]]],"p":[[3,"Tree"]]}\
+}');
+if (window.initSearch) {window.initSearch(searchIndex)};

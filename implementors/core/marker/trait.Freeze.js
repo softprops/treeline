@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["treeline"] = [{"text":"impl&lt;D&gt; Freeze for <a class=\"struct\" href=\"treeline/struct.Tree.html\" title=\"struct treeline::Tree\">Tree</a>&lt;D&gt; <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;D: Freeze,&nbsp;</span>","synthetic":true,"types":["treeline::Tree"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
