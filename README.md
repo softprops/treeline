@@ -26,24 +26,24 @@ target
 └── debug
     ├── .cargo-lock
     ├── .fingerprint
-    |   └── treeline-21a5bdbd42e0b6da
-    |       ├── dep-example-tree
-    |       ├── dep-lib-treeline
-    |       ├── example-tree
-    |       ├── example-tree.json
-    |       ├── lib-treeline
-    |       └── lib-treeline.json
+    │   └── treeline-21a5bdbd42e0b6da
+    │       ├── dep-example-tree
+    │       ├── dep-lib-treeline
+    │       ├── example-tree
+    │       ├── example-tree.json
+    │       ├── lib-treeline
+    │       └── lib-treeline.json
     ├── build
     ├── deps
-    |   └── libtreeline.rlib
+    │   └── libtreeline.rlib
     ├── examples
-    |   ├── tree
-    |   └── tree.dSYM
-    |       └── Contents
-    |           ├── Info.plist
-    |           └── Resources
-    |               └── DWARF
-    |                   └── tree
+    │   ├── tree
+    │   └── tree.dSYM
+    │       └── Contents
+    │           ├── Info.plist
+    │           └── Resources
+    │               └── DWARF
+    │                   └── tree
     ├── libtreeline.rlib
     └── native
 ```
