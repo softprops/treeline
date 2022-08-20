@@ -37,7 +37,7 @@ impl<D: Display> Tree<D> {
                 if *s {
                     write!(f, "    ")?;
                 } else {
-                    write!(f, "|   ")?;
+                    write!(f, "│   ")?;
                 }
             }
             if last {
